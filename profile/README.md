@@ -1,6 +1,6 @@
 # 👋 Welcome to Max Yin's GitHub Profile!
 
-![Header Image](https://via.placeholder.com/1200x200.png?text=Max+Yin+%7C+Robotics+%26+AI+Innovator)  
+![Header Image](https://cyberorigin.ai/icons/logo-home.svg)  
 *Revolutionizing robotics and embodied AI through data-driven innovation and decentralized ecosystems.*
 
 I’m **Max Yin**, a professor at **City University of Hong Kong (CityU)** and an advisory member of **[CyberOrigin.AI](https://www.cyberorigin.ai/)**, a Singapore-based startup pushing the boundaries of general-purpose robotics and AI. With a background in **SLAM (Simultaneous Localization and Mapping)**, **computer vision**, and **Web3 technologies**, I lead cutting-edge research and industry collaborations to shape the future of **embodied intelligence**. My work bridges academia and industry, driving innovation in robotics through high-precision data collection, multi-modal AI models, and decentralized data ecosystems.
