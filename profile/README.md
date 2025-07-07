@@ -3,7 +3,7 @@
 ![Header Image](https://cyberorigin.ai/icons/logo-home.svg)  
 *Revolutionizing robotics and embodied AI through data-driven innovation and decentralized ecosystems.*
 
-I’m **Max Yin**, a professor at **City University of Hong Kong (CityU)** and an advisory member of **[CyberOrigin.AI](https://www.cyberorigin.ai/)**, a Singapore-based startup pushing the boundaries of general-purpose robotics and AI. With a background in **SLAM (Simultaneous Localization and Mapping)**, **computer vision**, and **Web3 technologies**, I lead cutting-edge research and industry collaborations to shape the future of **embodied intelligence**. My work bridges academia and industry, driving innovation in robotics through high-precision data collection, multi-modal AI models, and decentralized data ecosystems.
+I’m **Max Yin**, a professor at **City University of Hong Kong (CityU)** and an advisory member of **[CyberOrigin.AI](https://www.cyberorigin.ai/)**, a Singapore-based startup pushing the boundaries of general-purpose robotics and AI. With a background in **SLAM (Simultaneous Localization and Mapping)**, **computer vision**, and **Embodied AI technologies**, I lead cutting-edge research and industry collaborations to shape the future of **embodied intelligence**. My work bridges academia and industry, driving innovation in robotics through high-precision data collection, multi-modal AI models, and decentralized data ecosystems.
 
 🔬 **Research Interests**: Robotics, Embodied AI, Multi-Modal Data for Data Markets  
 🌍 **Mission**: Empowering intelligent systems to perceive, reason, and act in the real world  
@@ -15,7 +15,7 @@ I’m **Max Yin**, a professor at **City University of Hong Kong (CityU)** and a
 
 - 🎓 **Academic Background**: Faculty at CityU, with prior experience at **CMU** and **NASA/DARPA**, focusing on advanced robotics and AI systems.
 - 🏭 **Industry Impact**: Advisory member of CyberOrigin.AI, collaborating with global leaders like **Google DeepMind**, **NVIDIA**, and **OpenAI** to advance robotics data solutions.
-- 💡 **Vision**: Building a decentralized, data-driven ecosystem for robotics, leveraging Web3 technologies like blockchain and DAOs to scale data collection and empower global communities.
+- 💡 **Vision**: Building a decentralized, data-driven ecosystem for robotics, leveraging Embodied AI technologies like blockchain and DAOs to scale data collection and empower global communities.
 - 📜 **Achievements**:
   - Pioneering SLAM 2.0 and digital twin technologies for next-gen robotic systems.
   - CyberOrigin's OpenCyberGlove for efficient and accurate robotic data collection.
@@ -24,7 +24,7 @@ I’m **Max Yin**, a professor at **City University of Hong Kong (CityU)** and a
 
 ## 🛠️ Featured Projects
 
-Here are some highlighted repositories from **[CyberOrigin2077](https://github.com/CyberOrigin2077)**, showcasing my work in robotics, AI, and Web3:
+Here are some highlighted repositories from **[CyberOrigin2077](https://github.com/CyberOrigin2077)**, showcasing my work in robotics, AI:
 
 - **[SLAM-Pioneer](https://github.com/CyberOrigin2077/SLAM-Pioneer)**  
   A cutting-edge framework for advanced Simultaneous Localization and Mapping (SLAM) using RGB-D cameras and LiDAR. Designed for real-time robotic navigation and mapping.  
